@@ -11,12 +11,13 @@ This checklist is a list of questions. If you see a question or a piece of code 
 
 # Sike.io ReactNative 训练营基础
 
-为了准备 React/ReactNative 训练营，你不需要对 web 开发很了解，但是你的确需要对很多事情有点了解。在我们开始训练营之前，我们准备了这个清单来帮助你学习 web 开发基础。
+React/ReactNative 训练营接触面比较广。你不需要对 web 开发有很深的了解，但是你确需要对杂七杂八的事情都知道一些。在我们开始训练营之前，我们准备了这个清单来帮助你学习 web 开发基础。
 
-这个清单是一个问题列表。如果你看到不理解的问题或者代码，请阅读我们链接到的学习资源。如果清单中的每件事情对你来说都很熟悉，你就对训练营准备好了。
+这个清单枚举了一系列的技术问题。如果你看到不理解的问题或者代码，请阅读我们链接到的学习资源。如果这些清单里的技术问题对你来说都很熟悉，你就已经具备了训练营需要的知识。
 
 + 如果你刚接触 web 开发，我们建议你应该尽可能地多花时间学习 JavaScript。
-+ 如果你是一位前端开发者，你应该花更多时间学习 iOS 基础。
++ 如果你是一位前端开发者，你应该花些时间学习 iOS 基础。
+
 </cn>
 
 # JavaScript
@@ -244,7 +245,7 @@ person.sayHello();
 
 [CSS 框模型概述](http://www.w3school.com.cn/css/css_boxmodel.asp)
 
-[盒子模型](http://zh.learnlayout.com/box-model.html)
+[盒模型](http://zh.learnlayout.com/box-model.html)
 
 + `content-box` 和 `border-box` 之间的区别是什么？
 
@@ -336,7 +337,7 @@ If you are not familiar with Git, see: [Git Knowledge Checklist](git/index.md)
 
 # iOS
 
-Your goal is to build a simple app in Xcode. First learn the Swift basics:
+Your goal is to build a simple app in Xcode. First, learn the Swift basics:
 
 + [Swift 入门教程 - Part 1](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
 
@@ -344,17 +345,17 @@ Then learn how to build a simple UI:
 
 + [Swift 入门教程 - Part 2](http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app)
 
-The important things you need to know are:
+The important ideas you need to know are:
 
-1. UITextField, UILabel, UISlider are subclasses of UIView. They are the native UI elements in iOS. They are connected to the controller as `@IBOutlet`.
-2. When the user touches something, an `@IBAction` function in the ViewController is called.
-3. The ViewController set the properties of UIView objects to update the UI.
+1. UITextField, UILabel, UISlider are subclasses of UIView. They are the native UI components in iOS. They are connected to the controller as `@IBOutlet`.
+2. When the user touches a component (a button, or a slider), the corresponding `@IBAction` function in the ViewController would be called.
+3. The ViewController sets the properties of UIView objects to update the UI.
 
 <cn>
 
 # iOS
 
-你的目标是在 Xcode 中开发一个简单的 app。首先学习 Swift 基础：
+你的目标是在 Xcode 中开发一个简单的 app。首先, 学习 Swift 基础：
 
 + [Swift 入门教程 - Part 1](http://www.raywenderlich.com/74438/swift-tutorial-a-quick-start)
 
@@ -362,10 +363,10 @@ The important things you need to know are:
 
 + [Swift 入门教程 - Part 2](http://www.raywenderlich.com/74904/swift-tutorial-part-2-simple-ios-app)
 
-你需要知道的重要的事情：
+你需要知道的重要的知识点：
 
-1. UITextField， UILabel， UISlider 是 UIView 的子类。他们是 iOS 中的原生 UI。它们通过 `@IBOutlet` 连接到控制器。
-2. 当用户触摸了某个东西，ViewController 中的一个 `@IBAction` 函数就会被调用。
+1. UITextField， UILabel， UISlider 是 UIView 的子类。他们是 iOS 中的原生 UI 组件。它们通过 `@IBOutlet` 连接到 ViewController (控制器)。
+2. 当用户触摸了控件，比如一个按钮，ViewController 中对应的 `@IBAction` 函数就会被调用。
 3. ViewController 设置 UIView 对象的属性来更新 UI。
 
 </cn>
