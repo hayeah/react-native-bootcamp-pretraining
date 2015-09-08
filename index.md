@@ -1,13 +1,11 @@
 # Sike.io ReactNative Bootcamp Fundamentals
 
-To get ready for our React/ReactNative bootcamp, you don't need to know web development very well, but you do need to know a little about a lot of things.
+To get ready for the React/ReactNative bootcamp, you don't need to know web development very well, but you do need to know a little bit about a lot of things. We prepared this checklist to help you learn web development fundamentals before we start the bootcamp.
 
-That's why we prepared this checklist to help you learn the fundamentals before we start the bootcamp.
+This checklist is a list of questions. If you see a question or a piece of code that you don't understand, read the learning resources we've linked to. If everything in this checklist is familiar to you, then you are ready for the bootcamp.
 
-This checklist is a list of questions. Take a quick look and see if you know the answers. If you see anything you are not sure about, read the learning resources we've provided. If everything in this checklist is familiar to you, then you are ready.
-
-+ If you are new to web development, you should spend as much time as you can learning JavaScript.
-+ If you are a frontend developer, you should spend your time learning iOS fundamentals.
++ If you are new to web development, we recommend that you should spend as much time as you can learning JavaScript.
++ If you are a frontend developer, you should spend some time learning iOS fundamentals.
 
 # JavaScript
 
@@ -31,12 +29,12 @@ function startCounter(interval,callback) {
   },interval);
 
 
-  // Do you understand how closure captures the timerID?
+  // Do you know that `cancel` is a closure that captures the timerID?
   var cancel = function() {
     clearInterval(timerID);
   };
 
-  // Do you know that closure/function can be a value?
+  // Do you know that closure/function is a value?
   return cancel;
 }
 
@@ -143,7 +141,7 @@ See Demo: http://codepen.io/hayeah/pen/VvLyrp
 
 # Git
 
-If you are not familiar with Git, see: [Git Knowledge Checklistt](git/index.md)
+If you are not familiar with Git, see: [Git Knowledge Checklist](git/index.md)
 
 # iOS
 
