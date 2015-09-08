@@ -40,7 +40,7 @@ function startCounter(interval,callback) {
 
 // Do you know what a callback function is?
 var cancel = startCounter(500,function(i) {
-  console.log("currenet counter value:",i);
+  console.log("current counter value:",i);
 });
 
 // stop the counter after 5 seconds.
@@ -48,15 +48,15 @@ setTimeout(cancel,5000);
 
 
 // Output
-// currenet counter value: 1
-// currenet counter value: 2
-// currenet counter value: 3
-// currenet counter value: 4
-// currenet counter value: 5
-// currenet counter value: 6
-// currenet counter value: 7
-// currenet counter value: 8
-// currenet counter value: 9
+// current counter value: 1
+// current counter value: 2
+// current counter value: 3
+// current counter value: 4
+// current counter value: 5
+// current counter value: 6
+// current counter value: 7
+// current counter value: 8
+// current counter value: 9
 
 ```
 
