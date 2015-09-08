@@ -11,7 +11,7 @@ This checklist is a list of questions. If you see a question or a piece of code 
 
 # Sike.io ReactNative 训练营基础
 
-React/ReactNative 训练营接触面比较广。你不需要对 web 开发有很深的了解，但是你确需要对杂七杂八的事情都知道一些。在我们开始训练营之前，我们准备了这个清单来帮助你学习 web 开发基础。
+React/ReactNative 训练营接触面比较广。你不需要对 web 开发有很深的了解，但是你确需要对杂七杂八的事情都知道一些。在训练营之前，我们准备了一个清单来帮助你学习 web 开发基础。
 
 这个清单枚举了一系列的技术问题。如果你看到不理解的问题或者代码，请阅读我们链接到的学习资源。如果这些清单里的技术问题对你来说都很熟悉，你就已经具备了训练营需要的知识。
 
