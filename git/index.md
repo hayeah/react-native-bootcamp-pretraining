@@ -81,10 +81,10 @@ You can publish your code on the Internet so people can see your code, and make 
 
 你可以把你的代码发布到网络上，让人们可以看到你的代码，对你的代码做出改动。
 
-+ 远程分支（remote branch）是什么？`master` 和 `origin/master` 之间的区别是什么？
-+ 你能用 `git remote add` 添加一个远程仓库（remote repository）吗？
++ 远程分支是什么？`master` 和 `origin/master` 之间的区别是什么？
++ 你能用 `git remote add` 添加一个远程仓库吗？
 + 你能用 `git push` 发布你的代码到 GitHub 吗？
-+ 你能用 `git pull` 从远程分支（remote branch）获取新的提交（commits）吗？
++ 你能用 `git pull` 从远程分支获取新的提交吗？
 
 [远程仓库](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001374385852170d9c7adf13c30429b9660d0eb689dd43a000)
 </cn>
