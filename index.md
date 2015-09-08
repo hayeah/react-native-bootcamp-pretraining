@@ -175,12 +175,12 @@ function Person(name) {
   this.name;
 }
 
-// Every instance of person would have the `sayHello` method.
+// Every instance of Person would have the `sayHello` method.
 Person.prototype.sayHello = function() {
   console.log("hello, my name is " + this.name);
 }
 
-// Create an instance of Person using the Peron constructor.
+// Create an instance of Person using the Person constructor.
 var person = new Person();
 
 // Calls person's method.
