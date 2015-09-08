@@ -164,7 +164,7 @@ setInterval(function() {
 
 # Git
 
-如果你对 Git 不熟悉，阅读： [Git Knowledge Checklist](git/index.md)
+如果你对 Git 不熟悉，阅读： [Git Knowledge Checklist](git/index.zh_CN.md)
 
 
 

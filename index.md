@@ -331,7 +331,7 @@ If you are not familiar with Git, see: [Git Knowledge Checklist](git/index.md)
 
 # Git
 
-如果你对 Git 不熟悉，阅读： [Git Knowledge Checklist](git/index.md)
+如果你对 Git 不熟悉，阅读： [Git Knowledge Checklist](git/index.zh_CN.md)
 
 </cn>
 
