@@ -13,7 +13,7 @@ This checklist is a list of questions. Take a quick look and see if you know the
 
 Can you understand this piece of code?
 
-```
+```js
 /**
 * This is a function that calls the callback at a fixed interval.
 *
@@ -76,7 +76,7 @@ If you are not familiar with closure and anonymous function, read:
 
 Can you understand this piece of code?
 
-```
+```js
 // Person is a constructor
 function Person(name) {
   this.name;
@@ -119,7 +119,7 @@ person.sayHello();
 
 Can you understand the following code?
 
-```
+```html
 <div id="container"></div>
 
 <script>
