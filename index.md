@@ -369,4 +369,5 @@ The important ideas you need to know are:
 2. 当用户触摸了控件，比如一个按钮，ViewController 中对应的 `@IBAction` 函数就会被调用。
 3. ViewController 设置 UIView 对象的属性来更新 UI。
 
+Xcode 百度盘镜像：https://github.com/iBcker/adcdownload
 </cn>
